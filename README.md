@@ -5,3 +5,5 @@ disini kalian dapat membedakan mana gitar electric mana yang akustik
 
 
 selamat mencoba :))
+
+maaf kami belum bisa menampilkan layar dari robot :))
